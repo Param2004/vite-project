@@ -1,6 +1,6 @@
 
 import './App.css'
-import FileDownload from './download'
+import FileDownload from './component/download'
 
 function App() {
 

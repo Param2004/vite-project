@@ -4,7 +4,7 @@ import React from 'react';
 const FileDownload = () => {
   const downloadFile = () => {
     // Replace 'your-file.ppt' with the actual file name and extension
-    const fileName = 'NTPS_Online_Help.pptx';
+    const fileName = '../build/NTPS_Online_Help.pptx';
 
     // Create a link element
     const downloadLink = document.createElement('a');
