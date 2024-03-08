@@ -8,7 +8,7 @@ function App() {
     const fileName = 'translated.jpeg';
 
     // Set the file path
-    const filePath = 'src/dist/' + fileName;
+    const filePath = '/' + fileName;
 
     // Create a link element
     const downloadLink = document.createElement('a');
